@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string-array name="niveau">
+        <item>BAC</item>
+        <item>BAC+2</item>
+        <item>BAC+3</item>
+    </string-array>
+</resources>
